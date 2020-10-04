@@ -1,6 +1,7 @@
 ﻿# Wireshark
 1.	Throughput adalah kecepatan rata-rata data yang diterima oleh suatu suatu node dalam selang waktu pengamatan tertentu.
-Rumus Throughput = Jumlah data yang dikirim (Bytes) / Waktu Pengiriman (Time Span) = 368480 Bytes / 9,844
+Rumus Throughput = Jumlah data yang dikirim (Bytes) / Waktu Pengiriman (Time Span) 
+= 368480 Bytes / 9,844
 = 37431 Byte/s
 = 37,431 KB/s
 = 37,431 x 8
